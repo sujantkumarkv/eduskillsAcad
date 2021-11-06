@@ -21,4 +21,4 @@ def termsOfUse():
     return render_template("termsOfUse.html")
 
 if __name__== "__main__":
-    app.run(debug=True)
+    app.run()

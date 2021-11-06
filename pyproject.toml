@@ -1,6 +1,6 @@
 [tool]
 [tool.poetry]
-authors = ["Sujant Kumar Kv <>"]
+authors = ["Sujant Kumar Kv <you@example.com>"]
 name = "root"
 version = "0.0.0"
 description="flask template"
